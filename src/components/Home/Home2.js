@@ -87,17 +87,17 @@ function Home2() {
               </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/sisyx"
+                  href="https://www.linkedin.com/in/sajad-bahadori-879a1826b/"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <FaLinkedinIn />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://t.me/javad_webpro2"
+                  href="https://t.me/xistantial"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
